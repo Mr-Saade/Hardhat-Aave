@@ -16,12 +16,6 @@ The project aims to demonstrate the following functionalities:
 - **Mainnet Forking**: Utilizes mainnet forking to interact with the mainnet Aave protocol and other mainnet contracts for local testing and development.
 - **Asset Conversion with Chainlink Price Feeds**: Utilizes Chainlink's price feeds for asset conversion.
 
-## Installation and Usage
-
-### Prerequisites
-
-# Getting Started
-
 ## Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
